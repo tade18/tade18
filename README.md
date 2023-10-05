@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **my problems**
 
-- 💬 Ask me about **my opinion about Holy Roman Empire**
+- 💬 Ask me about **my opinion on Holy Roman Empire**
 
 - 📫 How to reach me **You canť reach me (Write me on Insta)**
 
