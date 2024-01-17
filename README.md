@@ -12,8 +12,6 @@
 - 📫 How to reach me **You canť reach me (Write me on Insta below)**
 
 - ⚡ Fun fact **House M.D. is best tv show**
-
-<img src="https://tenor.com/bsXPe.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/t_keller18.jpg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="t_keller18.jpg" height="30" width="40" /></a>
