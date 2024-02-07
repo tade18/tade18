@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **my opinion on Holy Roman Empire**
 
-- 📫 How to reach me **You canť reach me (Write me on Insta below)**
+- 📫 How to reach me **You can´t reach me (Write me on Insta below)**
 
 - ⚡ Fun fact **House M.D. is best tv show**
 <h3 align="left">Connect with me:</h3>
