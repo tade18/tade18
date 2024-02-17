@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tadeáš Keller</h1>
 <h3 align="center">Hail to the king, baby</h3>
 
-- 🔭 I’m currently working on **becoming pixel pixelart merchant**
+- 🔭 I’m currently working on **becoming pixel pixelart proffesional**
 
 - 🌱 I’m currently learning **Java, javascript**
 
