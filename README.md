@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tadeáš Keller</h1>
 <h3 align="center">Hail to the king, baby</h3>
 
-- 🔭 I’m currently working on **This planet**
+- 🔭 I’m currently working on **becoming pixel pixelart merchant**
 
 - 🌱 I’m currently learning **Java, javascript**
 
@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **my opinion of Holy Roman Empire**
 
-- 📫 How to reach me **You can´t reach me (Write me on Insta below)**
+- 📫 How to reach me? **You can´t reach me (Write me on Insta below)**
 
-- ⚡ Fun fact **House M.D. is best tv show**
+- ⚡ Fun fact **I want Peugeot 205 gti**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/t_keller18.jpg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="t_keller18.jpg" height="30" width="40" /></a>
