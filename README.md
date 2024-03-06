@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tadeáš Keller</h1>
-<h3 align="center">Hail to the king, baby</h3>
+<h3 align="center">Zkoušel jste to vypnout a zapnout?</h3>
 
 - 🔭 I’m currently working on **becoming pixel pixelart professional**
 
