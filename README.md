@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tadeáš Keller</h1>
-<div class="tenor-gif-embed" data-postid="15210949" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/the-it-crowd-moss-the-it-crowd-the-it-crowd-fire-moss-the-it-crowd-fire-richard-ayoade-gif-15210949">The It Crowd Moss The It Crowd GIF</a>from <a href="https://tenor.com/search/the+it+crowd-gifs">The It Crowd GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<a href="https://tenor.com/bbZd3.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/t_keller18.jpg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="t_keller18.jpg" height="30" width="40" /></a>
