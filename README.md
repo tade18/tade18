@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tadeáš Keller</h1>
-<img src="https://tenor.com/bbZd3.gif" width="40" height="40" />
+<img src="https://media1.tenor.com/m/PRN-EHOCuHwAAAAd/the-it-crowd-moss-the-it-crowd.gif" width="40" height="40" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/t_keller18.jpg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="t_keller18.jpg" height="30" width="40" /></a>
