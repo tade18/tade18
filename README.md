@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tadeáš Keller</h1>
 
-<img src="https://tenor.com/cs/view/206rclpdd-lpdd-206rc-206-car-gif-17155143"></img>
+<img src="https://tenor.com/bj8Z1.gif"></img>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
