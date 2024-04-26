@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tadeáš Keller</h1>
-<img src="https://tenor.com/cs/view/206rclpdd-lpdd-206rc-206-car-gif-17155143" width="630" height="340" align="center">
+
+<div class="tenor-gif-embed" data-postid="17155143" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/206rclpdd-lpdd-206rc-206-car-gif-17155143">206rclpdd Car GIF</a>from <a href="https://tenor.com/search/206rclpdd-gifs">206rclpdd GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/t_keller18.jpg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="t_keller18.jpg" height="30" width="40" /></a>
