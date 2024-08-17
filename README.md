@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tadeáš Keller</h1>
 
-<div class="tenor-gif-embed" data-postid="8319806658337244283" data-share-method="host" data-aspect-ratio="3.03659" data-width="100%"><a href="https://tenor.com/view/octavia-wrc-skoda-pixelart-gif-8319806658337244283">Octavia Wrc Sticker</a>from <a href="https://tenor.com/search/octavia-stickers">Octavia Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
