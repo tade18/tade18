@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tadeáš Keller</h1>
 
+![giphy](https://github.com/user-attachments/assets/7ab84f93-6bb3-4237-8f50-627d63a32d5f)
 
 
 <h3 align="left">Connect with me:</h3>
