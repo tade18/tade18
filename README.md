@@ -1,5 +1,27 @@
 <h1 align="center">Hi 👋, I'm Tadeáš Keller</h1>
 <h3 align="center">CZ</h3>
+<pre>
+  var _spriteBatch = _services.GetService<SpriteBatch>();
+        
+        var texture = _services.GetService<Texture2D>();
+        //2D textura bílý pixel = nové 2d textuře
+        Texture2D _whitePixel = new Texture2D(_graphicsDevice, 1, 1); 
+        _whitePixel.SetData(new Color[] { Color.White });  // tady se barva pixelu nastavuje na bílou
+        //Vektor směru se rovná pozici 2 - pozici 1
+        Vector2 direction = pos2 - pos1;
+        //tady floatí délka, která se rovná délce směru :-' idk wtf vůbec nevim
+        float length = direction.Length();
+        //tady se normalizuje směr
+        direction.Normalize();
+        //tady floatí nějakej úhel
+        float angle = (float)Math.Atan2(direction.Y, direction.X);
+        //tady to začíná kreslit
+        _spriteBatch.Begin(SpriteSortMode.Deferred, BlendState.AlphaBlend);
+        //tady to už kreslí
+        _spriteBatch.Draw(_whitePixel, pos1, null, color, angle, Vector2.Zero, new Vector2(length, 1), SpriteEffects.None, 0);
+        //tady už to kreslení končí
+        _spriteBatch.End();
+</pre>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
